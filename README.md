@@ -101,7 +101,7 @@ DEV8_1是原本的稳定版，虽然各方面比较麻烦，但是稳定、迅�
 
     Copyright© 2002–2018 Moritz Bunkus
     
-[Replace for Batch(LICENSE: GPLv2)](https://github.com/DYY-Studio/Replace_for_Batch)
+[Replace for Batch(LICENSE: MIT)](https://github.com/DYY-Studio/Replace_for_Batch)
 
     Copyright© 2018-2019 yyfll(dyystudio@qq.com)
     [Replace for Batch V4]
